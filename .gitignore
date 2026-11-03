@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Configuración local del editor/herramientas
+.claude/
+.vscode/
+.idea/
+
+# Archivos temporales de Word y del sistema
+~$*.docx
+~$*.doc
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Materiales locales que no se versionan (lecturas del curso y exportación PDF)
+Lectura fundamental *.pdf
+Analisis_Estudio_de_Caso_Diario.pdf
