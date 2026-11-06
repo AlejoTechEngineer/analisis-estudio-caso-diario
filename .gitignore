@@ -21,3 +21,6 @@ Thumbs.db
 # Materiales locales que no se versionan (lecturas del curso y copias en la raíz)
 /Lectura fundamental *.pdf
 /Analisis_Estudio_de_Caso_Diario.pdf
+
+# El entregable es el PDF; el documento Word fuente no se versiona
+docs/*.docx
