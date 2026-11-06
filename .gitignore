@@ -18,6 +18,6 @@ venv/
 Thumbs.db
 .DS_Store
 
-# Materiales locales que no se versionan (lecturas del curso y exportación PDF)
-Lectura fundamental *.pdf
-Analisis_Estudio_de_Caso_Diario.pdf
+# Materiales locales que no se versionan (lecturas del curso y copias en la raíz)
+/Lectura fundamental *.pdf
+/Analisis_Estudio_de_Caso_Diario.pdf
