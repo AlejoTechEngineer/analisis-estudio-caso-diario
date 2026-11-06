@@ -17,7 +17,7 @@
 **[Contexto](#-contexto-y-alcance) • [Contenido](#-contenido-del-repositorio) • [Problema](#-árbol-del-problema) • [Decisión](#️-cursos-de-acción-y-matriz-multicriterio) • [Ruta](#️-ruta-recomendada-por-etapas) • [Ejecución](#-ejecución) • [Autor](#-autor)**
 
 <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Microsoft%20Word-documento-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="Word"/>
+<img src="https://img.shields.io/badge/PDF-documento-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"/>
 <img src="https://img.shields.io/badge/Dependencias-ninguna-lightgrey?style=flat-square" alt="Dependencias"/>
 <img src="https://img.shields.io/badge/Tipo-Actividad%20acad%C3%A9mica-red?style=flat-square" alt="Tipo"/>
 <img src="https://img.shields.io/badge/Idioma-Español-yellow?style=flat-square" alt="Idioma"/>
@@ -72,7 +72,7 @@ Este repositorio contiene el documento y el material de apoyo de la actividad **
   <tr><td><code>LICENSE</code></td><td>⚖️ Licencia MIT</td></tr>
   <tr><td><code>.gitignore</code></td><td>🙈 Exclusiones de Python, archivos temporales de Word y materiales locales</td></tr>
   <tr><td colspan="2"><b>📂 docs/</b></td></tr>
-  <tr><td><code>Analisis_Estudio_de_Caso_Diario.docx</code></td><td>📘 <b>Entregable</b>: documento completo del análisis (Escenarios 3, 5 y 7)</td></tr>
+  <tr><td><a href="docs/Analisis_Estudio_de_Caso_Diario.pdf"><code>Analisis_Estudio_de_Caso_Diario.pdf</code></a></td><td>📕 <b>Entregable</b>: documento completo del análisis en PDF (Escenarios 3, 5 y 7)</td></tr>
   <tr><td colspan="2"><b>📂 docs/figuras/</b></td></tr>
   <tr><td><code>figura1_arbol_problema.png</code></td><td>🌳 Figura 1: árbol del problema del caso</td></tr>
   <tr><td><code>figura2_ruta_etapas.png</code></td><td>🛤️ Figura 2: ruta recomendada con cuatro etapas y tres compuertas</td></tr>
@@ -87,7 +87,8 @@ Este repositorio contiene el documento y el material de apoyo de la actividad **
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft%20Word-docx-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft%20Word-edici%C3%B3n-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF-entregable-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-README-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-control%20de%20versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -95,7 +96,8 @@ Este repositorio contiene el documento y el material de apoyo de la actividad **
 
 | Componente | Uso |
 |:---|:---|
-| **Microsoft Word** | Documento del análisis, con tablas, figuras y referencias en normas APA |
+| **Microsoft Word** | Edición del documento del análisis, con tablas, figuras y referencias en normas APA |
+| **PDF** | Formato del entregable final publicado en `docs/` |
 | **Python 3.9+** | Cálculo de la matriz multicriterio y prueba de sensibilidad, sin dependencias externas |
 | **Git** | Control de versiones del documento, las figuras y el script |
 
@@ -228,7 +230,7 @@ Simulación de 100.000 combinaciones de pesos (semilla 1)
 
 Arango-Forero, G., & Roncallo-Dow, S. (2013). Social media and new audiences as a new challenge for traditional and new media industries. En M. Friedrichsen & W. Mühl-Benninghaus (Eds.), *Handbook of social media management: Value chain and business models in changing media markets* (pp. 635-656). Springer.
 
-La bibliografía completa del trabajo está en el documento de `docs/`.
+La bibliografía completa del trabajo está en [`docs/Analisis_Estudio_de_Caso_Diario.pdf`](docs/Analisis_Estudio_de_Caso_Diario.pdf).
 
 ---
 
